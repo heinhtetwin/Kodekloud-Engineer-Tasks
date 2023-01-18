@@ -64,8 +64,24 @@
 [Fix issue with PhpFpm Application Deployed on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_issue_with_PhpFpm_Application_Deployed_on_Kubernetes.md)      
 [Save, Load and Transfer Docker Image](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Save_Load_and_Transfer_Docker_Image.md)  
 [Ansible File Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_File_Module.md)  
-
-
+[Puppet Setup SSH Keys](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_SSH_Keys.md)  
+[Git Install and Create Bare Repository](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Install_and_Create_Bare_Repository.md)   
+[Resolve Git Merge Conflicts](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Git_Merge_Conflicts.md)    
+[Ansible Lineinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Lineinfile_Module.md)    
+[Kubernetes Redis Deployment](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_Redis_Deployment.md)   
+[Docker EXEC Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_EXEC_Operations.md)   
+[ReplicationController in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/ReplicationController_in_Kubernetes.md)   
+[Rolling Updates And Rolling Back Deployments in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Rolling_Updates_And_Rolling_Back_Deployments_in_Kubernetes.md)   
+[Git Repository Update](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Repository_Update.md)   
+[Docker Copy Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Copy_Operations.md)     
+[Git Merge Branches](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/GIt_Merge_Branches.md)  
+[Docker Volumes Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Volumes_Mapping.md)  
+[Ansible Basic Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Basic_Playbook.md)  
+[Manage Secrets in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Manage_Secrets_in_Kubernetes.md)  
+[Git Clone Repositories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Clone_Repositories.md)  
+[Fix Issue with VolumeMounts in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_Issue_with_VolumeMounts_in_Kubernetes.md)   
+[Docker Ports Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Ports_Mapping.md)   
+[Troubleshoot Deployment issues in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Troubleshoot_Deployment_issues_in_Kubernetes.md)
 
 
 ###### End     
